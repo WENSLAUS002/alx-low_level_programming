@@ -1,1 +1,1 @@
-tatic library libmy.a containing all the functions
+0x09. C - Static libraries
